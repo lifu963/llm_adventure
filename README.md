@@ -12,7 +12,7 @@ python main.py
 
 ```shell
 docker pull lifu963/llm-adventure:v3.1
-docker run -p 7860:7860 gradio-app
+docker run -p 7860:7860 lifu963/llm-adventure:v3.1
 ```
 
 ## 运行效果
@@ -26,4 +26,4 @@ docker run -p 7860:7860 gradio-app
 # 当前问题
 
 - 文字太多，选择太少；干巴
-- 考虑增加地图/同伴/道具机制，尽可能减少文字，增加可互动空间
+- 考虑增加地图/同伴/道具机制；尽可能减少文字，增加可互动空间
