@@ -17,11 +17,7 @@ docker run -p 7860:7860 gradio-app
 
 ## 运行效果
 
-![image](https://github.com/user-attachments/assets/52946f8d-c563-4982-b71e-bd2f31fce07b)
-
-![image](https://github.com/user-attachments/assets/57a3ca06-d725-499f-ac47-87b1ca313beb)
-
-![image](https://github.com/user-attachments/assets/4e16f7ff-3baa-4db5-bcd4-9a76d89a7fa9)
+<img width="1489" alt="all" src="https://github.com/user-attachments/assets/0dc08d05-8c46-455d-adba-5720c06af4fa" />
 
 ## 并发能力
 
