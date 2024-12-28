@@ -2,7 +2,7 @@ import gradio as gr
 from openai import OpenAI
 
 MODEL = "qwen-plus"
-DASHSCOPE_API_KEY = "sk-87995054510a4d8b9f62d9a6bc49ccd5"
+DASHSCOPE_API_KEY = "*"
 
 client = OpenAI(
     api_key=DASHSCOPE_API_KEY,
