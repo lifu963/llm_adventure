@@ -11,7 +11,7 @@ python main.py
 ## 镜像运行
 
 ```shell
-docker pull lifu963/llm-adventure:
+docker pull lifu963/llm-adventure:v3.1
 docker run -p 7860:7860 gradio-app
 ```
 
